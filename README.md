@@ -1,5 +1,5 @@
 # ImageCompressor
-## Simple to use-
+## Simple to use- https://mhchishty7.github.io/ImageCompressor/
 
 
 ###### users can upload an image and resize its width & height or reduce its size. If they checked the “Lock aspect ratio”, the aspect ratio for an image will be calculated automatically and filled in the field as they start changing width or height.
